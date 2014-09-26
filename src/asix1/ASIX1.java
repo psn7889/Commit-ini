@@ -15,13 +15,15 @@ public class ASIX1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      int n1 = 40;
-      int n2 = 30;
+      int n1 = 74;
+      int n2 = 6;
        
       int resultado;     
       resultado = n1 + n2;
       System.out.println(resultado);
-      // TODO code application logic here
+      
+
+// TODO code application logic here
     }
     
 }
